@@ -63,6 +63,14 @@ Positional motors (delay lines) require a serial number. In case of Thorlabs KBD
 When the projects is complete, you need to save it ("Projects" folder is generated automatically). Default name of a project is generated as follows: YYYY-MM-DD-_HH-MM.
 Later on, when you have a set of projects, you can also edit a saved project or save it once more to enter the initialization phase.
 Please note that pins and coms are **NOT** kept when you open saved project files, so you need to select them manually every time you edit a project.
+
+
+
+
+
+
+
+__
 <img width="475" alt="5" src="https://github.com/jakrog01/Polariton/assets/141751789/1934ca6e-a62d-4e15-ba95-247e92d2963c">
 
 <img width="760" alt="6" src="https://github.com/jakrog01/Polariton/assets/141751789/b9d0a263-8584-480f-97c5-bd301faea1b1">
