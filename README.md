@@ -116,7 +116,9 @@ When you are ready for the measurement series, i.e. in [SPC](https://www.becker-
 
 
 Also, make sure you clicked "Start!":
-![13](https://github.com/jakrog01/Polariton/assets/141751789/8d5d384d-98ea-4cea-8fd7-92c1249f9f5b)
+
+<img width="500" alt="20" src="https://github.com/jakrog01/Polariton/assets/141751789/cd3305f5-d89b-487d-a523-2ecefb871805">
+
 
 
 Then, you can press "Save and Run" to start taking data. 
@@ -134,7 +136,7 @@ The file naming convention remains YYYY-MM-DD-_HH-MM.
 
 Immediately after opening, the measurement series starts. Therefore, make sure to select ascending trigger and correct file saving options in [SPC](https://www.becker-hickl.com/products/tcspc-package/) and click "Start!" **before opening a saved template**.
 
-<img width="761" alt="20" src="https://github.com/jakrog01/Polariton/assets/141751789/cd3305f5-d89b-487d-a523-2ecefb871805">
+<img width="500" alt="20" src="https://github.com/jakrog01/Polariton/assets/141751789/cd3305f5-d89b-487d-a523-2ecefb871805">
 
 
 
