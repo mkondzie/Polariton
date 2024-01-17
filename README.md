@@ -56,7 +56,7 @@ The default number of steps per revolution is 64 and can be changed according to
 
 Positional motors (delay lines) require a serial number. In case of Thorlabs KBD101 Driver, the serial number is located on the back of the cube:
 
-<img width="553" alt="4" src="https://github.com/jakrog01/Polariton/assets/141751789/302ea0d7-41d6-4666-a82b-733fc6adb7f7">
+<img width="350" alt="4" src="https://github.com/jakrog01/Polariton/assets/141751789/302ea0d7-41d6-4666-a82b-733fc6adb7f7">
 
 [Source](https://www.thorlabs.com/_sd.cfm?fileName=TTN126351-D02.pdf&partNumber=ODL100)
 
