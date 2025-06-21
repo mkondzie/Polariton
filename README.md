@@ -42,7 +42,7 @@ To get started, create a new file that represents your experimental setup.
 
 ## Report
 [Experimental setup for delay, division and modulation of laser pulses:
-emission from polariton condensate pumped with a pulsed laser}(https://mycloud.fuw.edu.pl/index.php/s/MBf3fFp8NWrFQxE#pdfviewer)
+emission from polariton condensate pumped with a pulsed laser](https://mycloud.fuw.edu.pl/index.php/s/MBf3fFp8NWrFQxE#pdfviewer)
 
 ## Acknowledgments
 
